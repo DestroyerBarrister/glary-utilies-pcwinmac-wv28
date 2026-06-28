@@ -1,4 +1,4 @@
-# 
+# Custom Glary Utilities plugins for Mac OS | Open Source Glary Utilities plugins for PC Windows. Featuring plugin system and archive creation — optimized for maximum performance on every platform.
 
 
 
